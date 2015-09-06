@@ -1,0 +1,1 @@
+# sales_tax_receipt_generator
